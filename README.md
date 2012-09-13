@@ -9,7 +9,7 @@ Here's a quick tutorial:
 * Unzip the downloaded package.
 * Upload the folder to your web server, for better overview its recommended to use the directory that includes your CSS files.
 * Place this script tag inside of your head tag:
-```html
+```
 <script type="text/javascript" src="path_to_lesscssfe/"></script>
 ```
 * Edit the configuration file config.php as needed.
