@@ -1,11 +1,12 @@
 # lessphp frontend v0.1.0
 
-`lessphp frontend` uses lessphp to compile LESS to disk or on the fly. The documentation for lessphp is great, so check it out: <http://leafo.net/lessphp/docs/>.
+`lessphp frontend` uses lessphp to compile LESS to disk or on the fly.
+The documentation for lessphp is great, so check it out: <http://leafo.net/lessphp/docs/>.
 
 Here's a quick tutorial:
 
 ### How to use in your PHP project
-* Download lessphp archive.
+* Download lessphp frontend archive. https://github.com/andrew13/lessphp-frontend/downloads
 * Unzip the downloaded package.
 * Upload the folder to your web server, for better overview its recommended to use the directory that includes your CSS files.
 * Place this script tag inside of your head tag:
