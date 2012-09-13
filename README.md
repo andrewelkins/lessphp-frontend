@@ -18,4 +18,4 @@ Here's a quick tutorial:
 * Make sure your CSS directory has chmod 750 or above.
 * Navigate to the file with the lesscssfe script tag in your browser
 * It's done! But don't forget to comment out the script tag once you're done.
-* So the visitors don't have to compile xCSS over and over again.
+* So the visitors don't have to compile lesscssfe over and over again.
