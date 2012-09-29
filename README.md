@@ -20,3 +20,6 @@ Here's a quick tutorial:
 * Navigate to the file with the lesscssfe script tag in your browser
 * It's done! But don't forget to comment out the script tag once you're done.
 * So the visitors don't have to compile lesscssfe over and over again.
+
+### Thanks
+* Thanks to leafo for create lessphp a port of less. https://github.com/leafo/lessphp
