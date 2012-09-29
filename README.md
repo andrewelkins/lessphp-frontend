@@ -1,4 +1,4 @@
-# lessphp frontend v0.1.0
+# lessphp frontend v1.0.0
 
 `lessphp frontend` uses lessphp to compile LESS to disk or on the fly.
 The documentation for lessphp is great, so check it out: <http://leafo.net/lessphp/docs/>.
