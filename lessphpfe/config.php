@@ -9,7 +9,7 @@
  * @version 1.0.0
  */
 
-public class lessphpfe_config
+class lessphpfe_config
 {
     protected $config = array(
 
